@@ -38,6 +38,8 @@ Parts used...
 
 1x Arduino Mega2560 Mini
 
+3x BD135 transistor
+
 
 The top clear acrylic and lower ply pieces where cut using a laser cutter (K40).
 I used a vinyl cutter to cut the black and white decals placed under the clear acrylic.
