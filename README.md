@@ -44,3 +44,5 @@ Parts used...
 The top clear acrylic and lower ply pieces where cut using a laser cutter (K40).
 I used a vinyl cutter to cut the black and white decals placed under the clear acrylic.
 And finally i 3d printed the laser mounts and covers to complete the game.
+
+NOTE: you probably shouldn't build this...laser safety and all that!
