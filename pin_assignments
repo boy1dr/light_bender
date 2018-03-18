@@ -1,0 +1,26 @@
+4	  WS2812-DI
+
+21	SCL - OLED	address 0x3C
+20	SDA - OLED
+
+21	Speaker output
+
+A0	LDR0
+A1	LDR1
+A2	LDR2
+A3	LDR3
+A4	LDR4
+A5	LDR5
+A6	LDR6
+A7	LDR7 
+A8	LDR8
+
+A13	Proximity sensor - input
+D24	Proximity sensor - output
+
+13 - RED laser
+15 - GREEN laser
+17 - BLUE laser
+
+Lasers are switched using BD135 transistors.
+Be sure to measure the lasers power draw and add the appropriate resistors.
