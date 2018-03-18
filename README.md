@@ -2,6 +2,7 @@
 Light bender is a DIY Laser board game
 
 Light bender is a board game i made using a Red, Green & Blue laser.
+
 The idea is to use mirror's to route the laser beam to a target.
 
 See it in action over on Youtube: https://youtu.be/ifkgCdoMrVc
@@ -18,15 +19,25 @@ Past level 15 the time to solve each level is reduced. Eventually to 6 seconds.
 Failing to solve the puzzle in the time limit will end the game.
 
 Parts used...
+
 1x Green laser pointer
+
 1x Red laser pointer
+
 1x Blue laser pointer
+
 9x WS2812 RGB LED
+
 9x Light dependent resistor
+
 1x proximity sensor
+
 1x OLED display
+
 1x Speaker
+
 1x Arduino Mega2560 Mini
+
 
 The top clear acrylic and lower ply pieces where cut using a laser cutter (K40).
 I used a vinyl cutter to cut the black and white decals placed under the clear acrylic.
