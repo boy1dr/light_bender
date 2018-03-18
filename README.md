@@ -5,6 +5,7 @@ Light bender is a board game i made using a Red, Green & Blue laser.
 The idea is to use mirror's to route the laser beam to a target.
 
 See it in action over on Youtube: https://youtu.be/ifkgCdoMrVc
+
 Build files are on thingiverse: https://www.thingiverse.com/thing:2830183
 
 There are 9 red-green-blue LED's placed around the play field, each with an accompanying light sensor.
